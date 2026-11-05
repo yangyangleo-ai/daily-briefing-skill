@@ -1,0 +1,11 @@
+node_modules/
+demo-output/
+output/
+workspace/
+profile.json
+input/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db

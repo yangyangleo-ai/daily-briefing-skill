@@ -1,0 +1,13 @@
+{
+  "name": "daily-briefing-skill",
+  "version": "0.1.0",
+  "private": true,
+  "description": "可追溯的日报与补读周报 Skill，附零依赖离线导出工具",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node skills/daily-briefing/scripts/briefing.mjs demo --output ./demo-output"
+  }
+}
